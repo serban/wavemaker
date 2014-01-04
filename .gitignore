@@ -13,3 +13,7 @@
 
 # Audio Files
 *.wav
+
+# Distutils Output
+dist/
+MANIFEST
