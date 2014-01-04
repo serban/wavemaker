@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# vim:set ts=8 sw=2 sts=2 et:
+
+from wavemaker import cli
+
+if __name__ == '__main__':
+  cli.main()
