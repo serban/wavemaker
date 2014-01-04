@@ -1,5 +1,0 @@
-A simple utility for generating sine waves in WAVE files
-
-Requires Python 3. Print the documentation with this command:
-
-  $ python3 make_wave.py --help
