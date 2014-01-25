@@ -2,7 +2,8 @@
 wavemaker - Generate WAVE files
 ===============================
 
-This project lives at `GitHub <http://github.com/serban/wavemaker>`_.
+This project lives at `GitHub <http://github.com/serban/wavemaker>`_. Version
+numbers follow the `Semantic Versioning <http://semver.org>`_ specification.
 
 
 Installation
